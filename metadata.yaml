@@ -1,0 +1,32 @@
+_repo: Canada-and-the-CanadiansVolume-I_20014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonnycastle, Richard Henry, Sir
+    aliases:
+    - Bonnycastle, R. H. (Richard Henry), Sir
+    - Bonnycastle, Sir Richard Henry
+    birthdate: 1791
+    deathdate: 1847
+    gutenberg_agent_id: '9029'
+    url: http://www.gutenberg.org/2009/agents/9029
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Bonnycastle
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2006-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Description and travel'
+- !lcsh 'Ontario -- Description and travel'
+- !lcc 'F1001'
+title: Canada and the Canadians, Vol. 1
+url: http://www.gutenberg.org/ebooks/20014
